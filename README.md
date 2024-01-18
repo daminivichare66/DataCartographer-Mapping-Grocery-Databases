@@ -1,1 +1,1 @@
-R
+DataCartographer is a comprehensive database project that delves into the intricate landscape of grocery data. <br> Unveiling operational efficiency and analytical insights, it serves as a reliable guide, offering a seamless journey through the vast realms of operational and analytical databases
